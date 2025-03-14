@@ -23,4 +23,4 @@ This project develops a **crime analysis platform** using **Flask**, enabling cr
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/BuffaloCrimeInsights.git
-   cd BuffaloCrimeInsights
+   cd Buffalo-Crime-Insights
